@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://triv1um.github.io/yibowang.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://triv1um.github.io/yibowang.jpg" class="floatpic" width="360" height="480">-->
 
 Hi! My name is **Yibo Wang (王一博)**.
 
