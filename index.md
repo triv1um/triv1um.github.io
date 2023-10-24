@@ -4,24 +4,24 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://triv1um.github.io/yibowang.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Hi! My name is **Yibo Wang (王一博)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer interning with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a senior undergraduate student majoring in **Industrial Design** at **Shanghai Jiao Tong University**. My supervisor is [Prof. Jiao Xue](https://designschool.sjtu.edu.cn/en-us/68db5c6ccd582ad3a20818ac4080c5a8/8e32a596cb5e28999d5a8594798a2862/detail/5f0ab4b508b7b6b055a08381). Currently, I'm working as a research assistant in the **Future Lab, Tsinghua University** advised by [Dr. Qi Lu](https://thfl.tsinghua.edu.cn/yjdw/bs/lq/index.htm). Previously, I spent a lovely exchange semester majoring in Interactive Media Technology and Product Design at **KTH Royal Institute of Technology**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+My goal is to advance research in **human-machine collaboration**, **social computing**, and **new interaction modalities**. I utilize an interdisciplinary approach drawing on my background in design, engineering and media technology. My ultimate aim is to enable more natural, engaging and empathetic interactions between humans and intelligent systems.
+
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wangyibo828[at]sjtu[dot]edu[dot]cn*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in July 2025. Looking for PhD position after that.
+- **Sep 2020 - June 2024:** Shanghai Jiao Tong University (BEng)
+- **Jan 2023 - June 2023:** KTH Royal Institute of Technology (Exchange)
+- **Sep 2023 - Feb 2024:** Tsinghua University (Research Intern)
+- Expect to look for potential PhD position or apply for a Research-oriented HCI master program position starting in 2024 Fall.
 
 <br>
 
@@ -29,11 +29,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Human Machine Collaboration
+- Embodied Interaction
+- Tangible Interfaces
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I aim to design and assess interactive systems, robots, and products that can enhance human experiences and communication. My skills in prototyping, user studies, and data analysis allow me to take a human-centered approach.
 
 <br>
 
@@ -41,11 +41,10 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Sep 2023：**[DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started internship at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Sep 2023：**Started internship as research assistant at Future lab, Tsinghua University!
 
-<br>
+- **Jan 2023：**One late breaking work accepted to HRI 2023, see you in Stockholm!
+
+- **Jun 2022：**Started Exchange semester at KTH!
+
+  <br>
