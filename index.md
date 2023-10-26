@@ -29,12 +29,21 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Human Machine Collaboration
-- Embodied Interaction
-- Tangible Interfaces
+My research interests center on human-machine collaboration, embodied interaction, and tangible interfaces. Specifically:
 
-I aim to design and assess interactive systems, robots, and products that can enhance human experiences and communication. My skills in prototyping, user studies, and data analysis allow me to take a human-centered approach.
+**Human-Machine Collaboration**
 
+I aim to advance systems that enable intuitive collaboration between humans and intelligent machines or robots. This involves exploring interaction modalities, gestures, and interfaces that facilitate seamless teamwork.
+
+**Embodied Interaction**
+
+I am fascinated by multi-sensory and embodied approaches to interaction design. My past projects have explored novel interfaces utilizing smell, sound, touch to influence user perceptions and experiences.
+
+**Tangible Interfaces**
+
+I design and assess tangible systems that bridge the digital and physical worlds through graspable objects and embodied interaction. These tangible interfaces aim to leverage human ability to manipulate physical objects.
+
+My goal is to design and evaluate interactive systems, robots, and products that can enhance human communication and experiences. My background in prototyping, conducting user studies, and analyzing interaction data allows me to take a human-centered and evidence-based approach. I am driven by the vision of fluid, intuitive, and empathetic collaboration between humans and machines.
 <br>
 
 ---
