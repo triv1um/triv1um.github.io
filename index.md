@@ -10,7 +10,7 @@ Hi! My name is **Yibo Wang (王一博)**.
 
 I am a senior undergraduate student majoring in **Industrial Design** at **Shanghai Jiao Tong University** supervised by [Prof. Jiao Xue](https://designschool.sjtu.edu.cn/en-us/68db5c6ccd582ad3a20818ac4080c5a8/8e32a596cb5e28999d5a8594798a2862/detail/5f0ab4b508b7b6b055a08381). Currently, I'm working as a research assistant in the **Future Lab, Tsinghua University** advised by [Dr. Qi Lu](https://thfl.tsinghua.edu.cn/yjdw/bs/lq/index.htm). Previously, I spent a lovely exchange semester majoring in Interactive Media Technology and Product Design at **KTH Royal Institute of Technology**. 
 
-<! --I will be joining [Prof. Junnan Yu](http://www.junnanyu.com/)'s research group at **School of Design, The Hong Kong Polytechnic University** as a PhD student in Sep 2024. -->
+
 My goal is to advance research in **human-machine collaboration**, **social computing**, and **new interaction modalities**. I utilize an interdisciplinary approach drawing on my background in design, engineering and media technology. My ultimate aim is to enable more natural, engaging and empathetic interactions between humans and intelligent systems.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *wangyibo828[at]sjtu[dot]edu[dot]cn*
@@ -22,7 +22,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2020 - June 2024:** Shanghai Jiao Tong University (BEng)
 - **Jan 2023 - June 2023:** KTH Royal Institute of Technology (Exchange)
 - **Sep 2023 - Feb 2024:** Tsinghua University (Research Intern)
-<- **Sep 2024 -** The Hong Kong Polytechnic University (PhD Student)>
 
 <br>
 
