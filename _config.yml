@@ -8,23 +8,20 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yibo Wang"
 title_separator          : "-"
 name                     : &name "Yibo Wang"
-description              : &description "PW"
+description              : &description "Personal description"
 url                      : https://triv1um.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "triv1um/triv1um.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yibo Wang"
   pronouns         : # example: "she/her"  
-  bio              : "incoming PhD student @PolyU Little Design Lab, Previous SJTU Design"
+  bio              : "Human Computer Interaction, Tangible Interaction, XR"
   location         : "Hong Kong SAR"
   employer         : "Hong Kong Polytechnic University"
   url              : # URL
