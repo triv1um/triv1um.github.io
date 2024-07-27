@@ -1,7 +1,7 @@
 ---
 title: "Smart design of portable indoor shading device for visual comfort—a case study of a college library"
 collection: publications
-permalink: /publication/2021-11-11-paper-title-number-1
+permalink: /publication/2021-11-11-portable-sunshade.md
 excerpt: 'This paper presents the design and evaluation of a smart, portable shading device aimed at improving visual comfort in library environments by effectively reducing glare and enhancing user satisfaction through the use of sensors and a mobile application for automated adjustments.'
 date: 2021-11-11
 venue: 'Applied Sciences'
