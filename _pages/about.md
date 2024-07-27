@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a first year Ph.D. student at [Hong Kong Polytechnic Universtiy](https://www.polyu.edu.hk/). As a member of [The Little Design Lab](https://www.littledesign.org/), I'm advised by [Prof.Junnan Yu](http://www.junnanyu.com/). As a HCI researcher, my research interests center on human-machine collaboration, embodied interaction, and tangible interfaces.
+I'm currently a first year Ph.D. student at [Hong Kong Polytechnic Universtiy](https://www.polyu.edu.hk/). As a member of [The Little Design Lab](https://www.littledesign.org/), I'm advised by [Prof. Junnan Yu](http://www.junnanyu.com/). As a HCI researcher, my research interests center on human-machine collaboration, embodied interaction, and tangible interfaces.
 
 Short bio: I received my Bachelor's Degree in Industrial Design (B.E.) from Shanghai Jiao Tong University. I worked as a research assistant at Tsinghua University (Future Laboratory) in 2023. Previously, I spent a lovely exchange semester majoring in Interactive Media Technology and Product Design at KTH Royal Institute of Technology. 
 
